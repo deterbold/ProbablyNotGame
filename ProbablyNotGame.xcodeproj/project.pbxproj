@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		42284B452CA75EB4001E6942 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 42284B262CA75EB2001E6942 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 42284B2D2CA75EB2001E6942;
+			remoteInfo = ProbablyNotGame;
+		};
+		42284B4F2CA75EB4001E6942 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 42284B262CA75EB2001E6942 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 42284B2D2CA75EB2001E6942;
+			remoteInfo = ProbablyNotGame;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		42284B2E2CA75EB2001E6942 /* ProbablyNotGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProbablyNotGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		42284B442CA75EB4001E6942 /* ProbablyNotGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProbablyNotGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		42284B4E2CA75EB4001E6942 /* ProbablyNotGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProbablyNotGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		42284B562CA75EB4001E6942 /* Exceptions for "ProbablyNotGame" folder in "ProbablyNotGame" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 42284B2D2CA75EB2001E6942 /* ProbablyNotGame */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		42284B302CA75EB2001E6942 /* ProbablyNotGame */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				42284B562CA75EB4001E6942 /* Exceptions for "ProbablyNotGame" folder in "ProbablyNotGame" target */,
+			);
+			path = ProbablyNotGame;
+			sourceTree = "<group>";
+		};
+		42284B472CA75EB4001E6942 /* ProbablyNotGameTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ProbablyNotGameTests;
+			sourceTree = "<group>";
+		};
+		42284B512CA75EB4001E6942 /* ProbablyNotGameUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ProbablyNotGameUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		42284B2B2CA75EB2001E6942 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42284B412CA75EB4001E6942 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42284B4B2CA75EB4001E6942 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		42284B252CA75EB2001E6942 = {
+			isa = PBXGroup;
+			children = (
+				42284B302CA75EB2001E6942 /* ProbablyNotGame */,
+				42284B472CA75EB4001E6942 /* ProbablyNotGameTests */,
+				42284B512CA75EB4001E6942 /* ProbablyNotGameUITests */,
+				42284B2F2CA75EB2001E6942 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		42284B2F2CA75EB2001E6942 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				42284B2E2CA75EB2001E6942 /* ProbablyNotGame.app */,
+				42284B442CA75EB4001E6942 /* ProbablyNotGameTests.xctest */,
+				42284B4E2CA75EB4001E6942 /* ProbablyNotGameUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		42284B2D2CA75EB2001E6942 /* ProbablyNotGame */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42284B572CA75EB4001E6942 /* Build configuration list for PBXNativeTarget "ProbablyNotGame" */;
+			buildPhases = (
+				42284B2A2CA75EB2001E6942 /* Sources */,
+				42284B2B2CA75EB2001E6942 /* Frameworks */,
+				42284B2C2CA75EB2001E6942 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				42284B302CA75EB2001E6942 /* ProbablyNotGame */,
+			);
+			name = ProbablyNotGame;
+			packageProductDependencies = (
+			);
+			productName = ProbablyNotGame;
+			productReference = 42284B2E2CA75EB2001E6942 /* ProbablyNotGame.app */;
+			productType = "com.apple.product-type.application";
+		};
+		42284B432CA75EB4001E6942 /* ProbablyNotGameTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42284B5C2CA75EB4001E6942 /* Build configuration list for PBXNativeTarget "ProbablyNotGameTests" */;
+			buildPhases = (
+				42284B402CA75EB4001E6942 /* Sources */,
+				42284B412CA75EB4001E6942 /* Frameworks */,
+				42284B422CA75EB4001E6942 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				42284B462CA75EB4001E6942 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				42284B472CA75EB4001E6942 /* ProbablyNotGameTests */,
+			);
+			name = ProbablyNotGameTests;
+			packageProductDependencies = (
+			);
+			productName = ProbablyNotGameTests;
+			productReference = 42284B442CA75EB4001E6942 /* ProbablyNotGameTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		42284B4D2CA75EB4001E6942 /* ProbablyNotGameUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42284B5F2CA75EB4001E6942 /* Build configuration list for PBXNativeTarget "ProbablyNotGameUITests" */;
+			buildPhases = (
+				42284B4A2CA75EB4001E6942 /* Sources */,
+				42284B4B2CA75EB4001E6942 /* Frameworks */,
+				42284B4C2CA75EB4001E6942 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				42284B502CA75EB4001E6942 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				42284B512CA75EB4001E6942 /* ProbablyNotGameUITests */,
+			);
+			name = ProbablyNotGameUITests;
+			packageProductDependencies = (
+			);
+			productName = ProbablyNotGameUITests;
+			productReference = 42284B4E2CA75EB4001E6942 /* ProbablyNotGameUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		42284B262CA75EB2001E6942 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					42284B2D2CA75EB2001E6942 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					42284B432CA75EB4001E6942 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 42284B2D2CA75EB2001E6942;
+					};
+					42284B4D2CA75EB4001E6942 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 42284B2D2CA75EB2001E6942;
+					};
+				};
+			};
+			buildConfigurationList = 42284B292CA75EB2001E6942 /* Build configuration list for PBXProject "ProbablyNotGame" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 42284B252CA75EB2001E6942;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 42284B2F2CA75EB2001E6942 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				42284B2D2CA75EB2001E6942 /* ProbablyNotGame */,
+				42284B432CA75EB4001E6942 /* ProbablyNotGameTests */,
+				42284B4D2CA75EB4001E6942 /* ProbablyNotGameUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		42284B2C2CA75EB2001E6942 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42284B422CA75EB4001E6942 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42284B4C2CA75EB4001E6942 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		42284B2A2CA75EB2001E6942 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42284B402CA75EB4001E6942 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42284B4A2CA75EB4001E6942 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		42284B462CA75EB4001E6942 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 42284B2D2CA75EB2001E6942 /* ProbablyNotGame */;
+			targetProxy = 42284B452CA75EB4001E6942 /* PBXContainerItemProxy */;
+		};
+		42284B502CA75EB4001E6942 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 42284B2D2CA75EB2001E6942 /* ProbablyNotGame */;
+			targetProxy = 42284B4F2CA75EB4001E6942 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		42284B582CA75EB4001E6942 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NES4E5L6E8;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ProbablyNotGame/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = software.ridiculous.probablynotgame.ProbablyNotGame;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		42284B592CA75EB4001E6942 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NES4E5L6E8;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = ProbablyNotGame/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = software.ridiculous.probablynotgame.ProbablyNotGame;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		42284B5A2CA75EB4001E6942 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		42284B5B2CA75EB4001E6942 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		42284B5D2CA75EB4001E6942 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NES4E5L6E8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = software.ridiculous.probablynotgame.ProbablyNotGameTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProbablyNotGame.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ProbablyNotGame";
+			};
+			name = Debug;
+		};
+		42284B5E2CA75EB4001E6942 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NES4E5L6E8;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = software.ridiculous.probablynotgame.ProbablyNotGameTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ProbablyNotGame.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ProbablyNotGame";
+			};
+			name = Release;
+		};
+		42284B602CA75EB4001E6942 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NES4E5L6E8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = software.ridiculous.probablynotgame.ProbablyNotGameUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ProbablyNotGame;
+			};
+			name = Debug;
+		};
+		42284B612CA75EB4001E6942 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NES4E5L6E8;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = software.ridiculous.probablynotgame.ProbablyNotGameUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = ProbablyNotGame;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		42284B292CA75EB2001E6942 /* Build configuration list for PBXProject "ProbablyNotGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42284B5A2CA75EB4001E6942 /* Debug */,
+				42284B5B2CA75EB4001E6942 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42284B572CA75EB4001E6942 /* Build configuration list for PBXNativeTarget "ProbablyNotGame" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42284B582CA75EB4001E6942 /* Debug */,
+				42284B592CA75EB4001E6942 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42284B5C2CA75EB4001E6942 /* Build configuration list for PBXNativeTarget "ProbablyNotGameTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42284B5D2CA75EB4001E6942 /* Debug */,
+				42284B5E2CA75EB4001E6942 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42284B5F2CA75EB4001E6942 /* Build configuration list for PBXNativeTarget "ProbablyNotGameUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42284B602CA75EB4001E6942 /* Debug */,
+				42284B612CA75EB4001E6942 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 42284B262CA75EB2001E6942 /* Project object */;
+}
