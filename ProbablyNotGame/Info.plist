@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>The game needs to use the camera to find objects in the real world</string>
 </dict>
 </plist>
